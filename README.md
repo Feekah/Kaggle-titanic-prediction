@@ -1,2 +1,2 @@
-# Kaggle-titanic-prediction
-Predicts the chance of passenger survival based on passenger information.
+This code develope, trains, tests and predicts the survival chance of a passenger aboard the titanic ship based on their passenger information.
+
